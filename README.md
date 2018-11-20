@@ -12,7 +12,7 @@ Further information about Orbital Insight and Datamine can be found at CME Group
 
 ## Run on Binder
 Automatically run this in a hosted Jupyter Notebook with all the dependencies.  
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/CMEGroup/datamine-rsmetrics/master)
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/CMEGroup/datamine-orbitalinsight/master)
 
 
 ## To Run This Analysis Locally
